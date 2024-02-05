@@ -1,0 +1,24 @@
+.container {
+  position: relative;
+  height: 100vh;
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #031a0f; 
+}
+
+.container h1 {
+  font-size: 2.5rem; 
+  margin-bottom: 1rem;
+  color: black;
+}
+
+.container p {
+  font-size: 1.2rem; 
+  margin-bottom: 2rem;
+  color: black;
+}
+
